@@ -96,5 +96,5 @@ Contributions are welcome! Please fork the repository and use a feature branch. 
 
 ## Contact
 
-Created by [Naveen Anandhan]([https://www.linkedin.com/in/naveen-anandhan]) - feel free to contact me!
+Created by [Naveen Anandhan](https://www.linkedin.com/in/naveen-anandhan-8b03b62a5/?trk=public-profile-join-page) - feel free to contact me!
 
