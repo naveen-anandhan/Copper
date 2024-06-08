@@ -98,6 +98,3 @@ Contributions are welcome! Please fork the repository and use a feature branch. 
 
 Created by [Naveen Anandhan](https://www.linkedin.com/in/naveen-anandhan) - feel free to contact me!
 
----
-
-Feel free to customize this README to better fit your project details and personal style!
